@@ -2,7 +2,6 @@
 	import PageLayout from '$lib/layout/PageLayout.svelte';
 	import Participant from '../../lib/participants/Participant.svelte';
 	import type { Participant as ParticipantT } from '$lib/participants/participant-schema';
-	import { displayName } from '$lib/participants/display-name';
 	import { base } from '$app/paths';
 	import type { PageData } from './$types';
 	import {

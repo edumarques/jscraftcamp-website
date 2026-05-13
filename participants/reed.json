@@ -1,0 +1,24 @@
+{
+	"realName": {
+		"givenName": "Reed",
+		"familyName": "von Redwitz",
+		"placeFamilyNameFirst": false,
+		"hideFamilyNameOnWebsite": false
+	},
+	"githubAccountName": "deer",
+	"company": "Workday",
+	"when": {
+		"friday": true,
+		"saturday": true
+	},
+	"iCanTakeNotesDuringSessions": false,
+	"tags": ["Deno", "Fresh", "Typescript"],
+	"vegan": false,
+	"vegetarian": false,
+	"allergies": ["Gluten"],
+	"whatIsMyConnectionToJavascript": "I like deno and typescript.",
+	"whatCanIContribute": "Talk about https://denote.sh/",
+	"tShirtSize": "L",
+	"linkedin": "https://www.linkedin.com/in/reed-vonredwitz/",
+    "website": "https://reed.vonredwitz.com/",
+}

@@ -1,0 +1,21 @@
+{
+	"realName": {
+		"givenName": "Lukas",
+		"familyName": "Frey",
+		"placeFamilyNameFirst": false,
+		"hideFamilyNameOnWebsite": false
+	},
+	"githubAccountName": "kasulio",
+	"when": {
+		"friday": true,
+		"saturday": true
+	},
+	"iCanTakeNotesDuringSessions": false,
+	"tags": ["TypeScript", "React", "TanStack Start", "Self Hosting", "Sustainability"],
+	"vegan": false,
+	"vegetarian": true,
+	"whatIsMyConnectionToJavascript": "has been my primary language for a while, i enjoy building with it and trying out the new stuff that is always happening",
+	"whatCanIContribute": "participate in discussions, help wherever it is needed during the event",
+	"tShirtSize": "L",
+	"linkedin": "https://www.linkedin.com/in/lukas-frey-842297226/",
+}

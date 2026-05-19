@@ -1,0 +1,25 @@
+// vim: ft=jsonc
+{
+	"realName": {
+		"givenName": "Irena",
+		"familyName": "Reitz",
+		"placeFamilyNameFirst": false,
+		"hideFamilyNameOnWebsite": false
+	},
+	"githubAccountName": "irenama",
+	"company": "Peerigon GmbH",
+	"when": {
+		// June 12th, 2026
+		"friday": true,
+		// June 13th, 2026
+		"saturday": true
+	},
+	"iCanTakeNotesDuringSessions": true,
+	"tags": ["TypeScript", "React", "Zod", "Next.js", "Tailwind", "chromatic", "Pragmatic AI usage"],
+	"vegan": false,
+	"vegetarian": true,
+	"allergies": [],
+	"whatIsMyConnectionToJavascript": "Day to day (Typescript) shenanigans at Peerigon since 2017.",
+	"whatCanIContribute": "An open mind on anything, but especially keen on Frontend & meta topics.",
+	"linkedin": "https://www.linkedin.com/in/irena-reitz/",
+}
